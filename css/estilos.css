@@ -1,0 +1,26 @@
+header{
+	background:#3A8891;
+	color: #4C5320;
+	overflow: hidden; /*Ocu*/
+	position: relative;
+
+}
+header h1{
+	padding: 0.1em;
+	margin-left: 120px;
+	float: left;
+	font-size: 1.8em;
+	position: absolute;
+}
+
+header figure{
+	float: left;
+	border-right: 1px solid white;
+	padding-right: 0.5em;
+	margin-right: 0.5em
+}
+
+.menu_list_items{
+	color: #258635;
+}
+
