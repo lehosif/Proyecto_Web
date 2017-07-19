@@ -1,46 +1,73 @@
-header{
-	background:#3A8891;
-	color: #4C5320;
-	overflow: hidden; /*Ocu*/
+header {
+	background: #769488;
+	color: white;
 	position: relative;
 
 }
+
+header div {
+	overflow: hidden; /*Ocu*/
+	position: relative;
+}
+
 header h1{
-	padding: 0.1em;
+	padding: 0.5em 0.1em 0 0;
 	margin-left: 120px;
 	float: left;
-	font-size: 1.8em;
+	font-size: 1.5em;
 	position: absolute;
+
+}
+
+.menu{
+	float: right;
 }
 
 header figure{
 	float: left;
 	border-right: 1px solid white;
+	margin-top: 10px;
 	padding-right: 0.5em;
 	margin-right: 0.5em
 }
 
 
-nav{
+nav
 
-	background: #769488;
-	overflow: hidden;
+{	background: #769488;
+
 }
 nav ul{
-	float: right;
 	list-style: none;
 	margin: 0;
 	padding: 0;
+
 }
 
 nav ul li {
-	display: inline-block; 	
+	display: inline-block; 
 }
 
 nav ul li a{
 	
 	display: block;
-	padding: 0.5em;
+	padding: 2em;
 	color: white;
 	text-decoration: none;
+	font-size: 18px;
+	font-family: 'Arvo', serif;
+
+}	
+nav ul li a:hover{
+	background: #80AD9C;
+	text-decoration: none;
+
+}
+
+@media screen and (max-width: 790px)  {
+	nav{
+		visibility: hidden;
+		position: absolute;
+	}
+
 }

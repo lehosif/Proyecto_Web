@@ -1,0 +1,147 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M288 64h32v64h-32v-64z",
+          "M416 64h32v64h-32v-64z",
+          "M544 64h32v64h-32v-64z",
+          "M672 64h32v64h-32v-64z",
+          "M320 704h32v32h-32v-32z",
+          "M320 544h32v32h-32v-32z",
+          "M320 384h32v32h-32v-32z",
+          "M736.1 128c0 0-28.1 0-32.1 0v64h-32v-64h-96v64h-32v-64h-96v64h-32v-64h-96v64h-32v-64c-4 0-32.1 0-32.1 0-35.3 0-63.9 28.5-63.9 64.1v671.8c0 35.4 28.5 64.1 63.9 64.1h480.2c35.3 0 63.9-28.5 63.9-64.1v-671.8c0-35.4-28.5-64.1-63.9-64.1zM384 768h-96v-96h96v96zM384 608h-96v-96h96v96zM384 448h-96v-96h96v96zM704 736h-256v-32h256v32zM704 576h-256v-32h256v32zM704 416h-256v-32h256v32z"
+        ],
+        "attrs": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "notebook-list"
+        ],
+        "grid": 32
+      },
+      "attrs": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 1,
+        "id": 1,
+        "prevSize": 32,
+        "code": 59649,
+        "name": "i_cursoselec"
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M224 608h-32v-32h32v-96h-32v-32h32v-96h-32v-32h32v-96h-32v-32h32v-31.765c0-35.488 28.617-64.235 63.918-64.235h480.165c35.408 0 63.918 28.759 63.918 64.235v735.531c0 35.488-28.617 64.235-63.918 64.235h-480.165c-35.408 0-63.918-28.759-63.918-64.235v-31.765h-32v-32h32v-96h-32v-32h32v-96zM256 608v96h32v32h-32v96h32v32h-32v32.145c0 17.593 14.551 31.855 31.999 31.855h480.003c17.672 0 31.999-14.568 31.999-31.855v-736.291c0-17.593-14.551-31.855-31.999-31.855h-480.003c-17.672 0-31.999 14.568-31.999 31.855v32.145h32v32h-32v96h32v32h-32v96h32v32h-32v96h32v32h-32zM352 256v32h352v-32h-352zM384 384v32h288v-32h-288z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "notebook"
+        ],
+        "grid": 32
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 2,
+        "id": 0,
+        "prevSize": 32,
+        "code": 59650,
+        "name": "i_curso"
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
+          "M1024 590.444l-512-397.426-512 397.428v-162.038l512-397.426 512 397.428zM896 576v384h-256v-256h-256v256h-256v-384l384-288z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "home",
+          "house"
+        ],
+        "grid": 16
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 1,
+        "id": 0,
+        "name": "i_home",
+        "prevSize": 32,
+        "code": 59648
+      },
+      "setIdx": 1,
+      "setId": 0,
+      "iconIdx": 0
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
